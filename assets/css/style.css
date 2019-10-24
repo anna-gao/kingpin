@@ -76,6 +76,20 @@ li a:hover {
     align-items: center;
 }
 
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.subtitle {
+    font-size: 32px;
+    padding-right: 20px;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+}
+
 #description {
 	background: #86A9C1;
 	color: white;
@@ -83,6 +97,7 @@ li a:hover {
 	height: 334px;
 	width: 400px;
 	display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding-left: 40px;
