@@ -55,8 +55,9 @@ li a {
 }
 
 li a:hover {
-  	background-color: #555;
-  	color: gray;
+  	background-color: #e1ecf0;
+  	border-radius: 12px;
+  	color: #86A9C1;
 }
 
 .row {
