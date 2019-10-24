@@ -76,11 +76,18 @@ li a:hover {
     align-items: center;
 }
 
-.menu {
+#menu {
+    background: #f7f9fa;
+    color: black;
+    font-size: 18px;
+    height: 500px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .subtitle {
